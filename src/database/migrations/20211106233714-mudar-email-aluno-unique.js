@@ -9,5 +9,5 @@ module.exports = {
     },
   ),
 
-  down: () => {},
+  down: async () => {},
 };
